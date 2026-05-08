@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="ARM" />
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ElectronicBell.Packag/ElectronicBell.Packag.wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="3e612695-9ccd-4d5e-a6e7-7586d4ab8b62">
+    <Deploy />
+  </Project>
+  <Project Path="ElectronicBell/ElectronicBell.csproj" Id="0c07cc4d-133b-4b5b-a243-280cfa1114aa" />
+</Solution>
